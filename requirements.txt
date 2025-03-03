@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+requests
+scikit-learn
+python-multipart
+pydantic
+boto3
+mlflow
+
+
+
+
