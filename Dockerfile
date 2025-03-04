@@ -8,7 +8,7 @@ RUN pip install -r requirements.txt
 
 COPY main.py .
 
-CMD uvicorn api:app --port $PORT --host 0.0.0.0
+CMD uvicorn main:app --port $PORT --host 0.0.0.0
 
 
 
